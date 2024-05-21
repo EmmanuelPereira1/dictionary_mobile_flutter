@@ -1,0 +1,1 @@
+export 'package:dictionary_mobile_flutter/core/remote_client/remote_client.dart';
